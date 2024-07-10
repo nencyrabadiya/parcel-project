@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "source": "src/index.html",
-  "homepage": "https://nencyrabadiya.github.io/parcel-project",
+  "homepage": "https://nencyrabadiya.github.io/parcel-project/",
   "scripts": {
     "start": "parcel",
     "deploy": "gh-pages -d public",
