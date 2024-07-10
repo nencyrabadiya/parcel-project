@@ -6,7 +6,7 @@
   "homepage": "https://nencyrabadiya.github.io/parcel-project",
   "scripts": {
     "start": "parcel",
-    "deploy": "gh-pages -d dist",
+    "deploy": "gh-pages -d public",
     "build": "parcel build --dist-dir public"
   },
   "author": "",
