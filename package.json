@@ -6,8 +6,8 @@
   "homepage": "https://nencyrabadiya.github.io/parcel-project",
   "scripts": {
     "start": "parcel",
-    "deploy": "gh-pages -d public",
-    "build": "parcel build --dist-dir public"
+    "deploy": "gh-pages -d public && ls -l public",
+    "build": "parcel build --dist-dir public && ls -l public"
   },
   "author": "",
   "license": "ISC",
