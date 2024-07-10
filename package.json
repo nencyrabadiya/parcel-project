@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "source": "src/index.html",
-  "homepage": "https://nencyrabadiya.github.io/parcel-project/",
+  "homepage": "https://nencyrabadiya.github.io/parcel-project",
   "scripts": {
     "start": "parcel",
     "deploy": "gh-pages -d public",
-    "build": "parcel build --dist-dir public"
+    "build": "parcel build index.html --public-url ./"
   },
   "author": "",
   "license": "ISC",
