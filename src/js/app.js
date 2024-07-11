@@ -1,6 +1,6 @@
 const btn = document.querySelector('button');
 const body = document.querySelector('body');
-
+console.log("AAAAAAAAAAA");
 let availableColors = ['darkslateblue', 'midnightblue', 'teal', 'tomato', 'seagreen', 'royalblue', 'saddlebrown', 'indigo', 'olivedrab', 'rosybrown'];
 
 btn.addEventListener('click', function() {
